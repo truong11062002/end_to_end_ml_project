@@ -1,0 +1,6 @@
+# Create a venv
+conda create -p venv python==3.8 -y
+# Activate to my conda
+conda activate D:\\end_to_end_ml_project\\venv
+# Check syn of github
+git remote -v
