@@ -1,0 +1,13 @@
+Setup project with Github
+ a. new env
+ b. setup.py
+ c. requirements.txt
+
+1. Data Ingestion
+2. Data transformation
+3. Model Trainer
+4. Model Evaluation
+5. Model deployment
+
+CI/CD Pipelines - Github Actions
+Deployment - AWS
